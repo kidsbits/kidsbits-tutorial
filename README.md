@@ -2,8 +2,8 @@
 
 ---
 # Coding Box
-* [KD2124 kidsbits Desktop Tutorial-V2.0](https://wiki.kidsbits.cc/projects/KD2124/en/latest/)
 * [KD0001 kidsbits Coding Box Kit for Arduino](https://wiki.kidsbits.cc/projects/KD0001/en/latest/)
+* [KD2124 kidsbits Coding Box Kit for ESP32](https://wiki.kidsbits.cc/projects/KD2124/en/latest/)
 ---
 # Coding Robot
 * [KD0003 kidsbits Coding Robot for Arduino](https://wiki.kidsbits.cc/projects/KD0003/en/latest/)
