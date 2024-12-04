@@ -21,7 +21,7 @@
 * [KD3023 Kidsbits STEM Electronic Building Blocks Smart Fan Kit](https://wiki.kidsbits.cc/projects/KD3023/en/latest/)
 * [KD3024 Kidsbits STEM Electronic Building Blocks Mini Meteorological Station Kit](https://wiki.kidsbits.cc/projects/KD3024/en/latest/)
 * [KD3025 Kidsbits STEM Smart Safe House Kit](https://wiki.kidsbits.cc/projects/KD3025/en/latest/)
-* [KD3026](https://wiki.kidsbits.cc/projects/KD3026/en/latest/)
+* [KD3026 Kidsbits ESP32 IoT Basic Starter Kit](https://wiki.kidsbits.cc/projects/KD3026/en/latest/)
 
 
 ---
